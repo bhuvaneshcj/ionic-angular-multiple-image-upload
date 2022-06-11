@@ -1,0 +1,7 @@
+{
+  "name": "multi-img-upload",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
