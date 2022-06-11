@@ -4,7 +4,7 @@ Hi Guys, In this example i will show you how to uploabhuvaneshcj/Qrcode-Scanner-
 
 ## Screenshots
 
-![App Screenshot](https://github.com/bhuvaneshcj/Multiple-Image-Upload-in-Ionic-6/images/screenshot-I.png)
+![App Screenshot](https://github.com/bhuvaneshcj/Multiple-Image-Upload-in-Ionic-6/tree/master/images/screenshot-I.png)
 
 ## Getting Started
 
