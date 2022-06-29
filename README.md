@@ -4,7 +4,8 @@ Hi Guys, In this example i will show you how to uploabhuvaneshcj/Qrcode-Scanner-
 
 ## Screenshots
 
-![App Screenshot](/images/screenshot-I.png)
+
+<img src="/images/screenshot-I.png" width=20% height=20%>
 
 ## Getting Started
 
