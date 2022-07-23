@@ -1,6 +1,6 @@
 ## Multiple Image Upload in Ionic 6
 
-Hi Guys, In this example i will show you how to uploabhuvaneshcj/Qrcode-Scanner-Using-Instascan-Plugind multiple image in Ionic 6 with additonal options Reorder and Delete ( specific image ).
+Hi Viewers, In this example you can see the source code of Multiple image Upload ( Changing image position, and Deleting Image ).
 
 ## Screenshots
 
